@@ -1,0 +1,7 @@
+git clone 網址
+
+git add .
+
+git commit -m "寫你要得註解"
+
+git push 
