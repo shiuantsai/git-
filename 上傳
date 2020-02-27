@@ -3,5 +3,8 @@ git clone 網址
 git add .
 
 git commit -m "寫你要得註解"
+(可能會遇到這個問題:Please tell me who you are)
+解法:
+https://blog.csdn.net/Coco_Wonderful/article/details/51822143
 
 git push 
