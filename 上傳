@@ -1,4 +1,6 @@
-git clone 網址
+git clone 網址(你要上傳的)
+
+cd 進剛才的資料夾
 
 git add .
 
@@ -8,3 +10,8 @@ git commit -m "寫你要得註解"
 https://blog.csdn.net/Coco_Wonderful/article/details/51822143
 
 git push 
+
+此時若沒有連接到github，會要你輸入帳密登入
+
+account:shiuantsai
+password:mnh...
