@@ -15,3 +15,9 @@ git push
 
 account:shiuantsai
 password:mnh...
+
+
+-------------------------------------------------
+
+儲存所有要一直重複做的指令:
+git add . && git commit -m "web" && git push
